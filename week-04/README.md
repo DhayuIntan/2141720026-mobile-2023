@@ -173,3 +173,9 @@ Dilakukan penambahan kode seperti berikut:
 
 Mengganti salah satu isi record dengan nama dan NIM:
 ![img.png](docs/p5-l5b.png)
+
+<h1>Praktikum</h1>
+2. Jelaskan yang dimaksud Functions dalam bahasa Dart!
+
+<b>Jawaban</b>
+Functions merupakan suatu blok kode yang dapat digunakan untuk menjalankan aksi tertentu yang dapat memiliki parameter (input) dan dapat mengembalikan nilai (output).
