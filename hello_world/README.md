@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="images/01.png" alt="Deskripsi Gambar" width="100" height="100">
+<img src="images/01.png" alt="Deskripsi Gambar" height="300">
 
 <h1>Praktikum 3</h1>
 
