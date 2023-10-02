@@ -39,7 +39,9 @@ A new Flutter project.
 <h4>Jawaban</h4>
 
 - membuat file my_layout.dart pada basic_widgets
+
   <img src="images/07.png" alt="Deskripsi Gambar" height="700">
+
 - membuat file my_home_page.dart pada basic_widgets
   <img src="images/08.png" alt="Deskripsi Gambar" height="700">
 - main.dart
