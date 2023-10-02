@@ -31,7 +31,7 @@ A new Flutter project.
 
 <h3>Langkah 6: Date and Time Pickers</h3>
 
-![Screenshoot hello_world](images/06.gif)
+![Screenshoot hello_world](images/15.png)
 
 <h1>Tugas Praktikum</h1>
 
