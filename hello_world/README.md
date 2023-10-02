@@ -23,15 +23,15 @@ A new Flutter project.
 
 <h3>Langkah 4: Dialog Widget</h3>
 
-![Screenshoot hello_world](images/04.png)
+![Screenshoot hello_world](images/04.gif)
 
 <h3>Langkah 5: Input dan Selection Widget</h3>
 
-![Screenshoot hello_world](images/05.png)
+![Screenshoot hello_world](images/05.gif)
 
 <h3>Langkah 6: Date and Time Pickers</h3>
 
-![Screenshoot hello_world](images/15.png)
+![Screenshoot hello_world](images/06.gif)
 
 <h1>Tugas Praktikum</h1>
 
