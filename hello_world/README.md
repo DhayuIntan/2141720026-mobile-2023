@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Screenshoot hello_world](images/01.png)
+<img src="images/01.png" alt="Deskripsi Gambar" width="100" height="100">
 
 <h1>Praktikum 3</h1>
 
