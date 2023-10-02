@@ -6,20 +6,20 @@ A new Flutter project.
 
 <h1>Praktikum 3</h1>
 
-![Screenshoot hello_world](images/02.png)
+<img src="images/02.png" alt="Deskripsi Gambar" height="700">
 
 <h1>Praktikum 4</h1>
 <h3>Langkah 1: Cupertino Button dan Loading Bar</h3>
 
-![Screenshoot hello_world](images/13.png)
+<img src="images/13.png" alt="Deskripsi Gambar" height="700">
 
 <h3>Langkah 2: Floating Action Button (FAB)</h3>
 
-![Screenshoot hello_world](images/14.png)
+<img src="images/14.png" alt="Deskripsi Gambar" height="700">
 
 <h3>Langkah 3: Scaffold Widget</h3>
 
-![Screenshoot hello_world](images/03.png)
+<img src="images/03.png" alt="Deskripsi Gambar" height="700">
 
 <h3>Langkah 4: Dialog Widget</h3>
 
