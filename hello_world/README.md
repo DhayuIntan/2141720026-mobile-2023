@@ -39,11 +39,11 @@ A new Flutter project.
 <h4>Jawaban</h4>
 
 - membuat file my_layout.dart pada basic_widgets
-  ![Screenshoot hello_world](images/07.png)
+  <img src="images/07.png" alt="Deskripsi Gambar" height="700">
 - membuat file my_home_page.dart pada basic_widgets
-  ![Screenshoot hello_world](images/08.png)
+  <img src="images/08.png" alt="Deskripsi Gambar" height="700">
 - main.dart
-  ![Screenshoot hello_world](images/09.png)
+  <img src="images/09.png" alt="Deskripsi Gambar" height="700">
 - output
   ![Screenshoot hello_world](images/10.gif)
 
