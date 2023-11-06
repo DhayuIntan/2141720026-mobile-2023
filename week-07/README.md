@@ -6,11 +6,11 @@ A new Flutter project.
 
 ## Langkah 1: Buat Project Baru
 
-![Screenshoot layout_flutter](images/1-1.png)
+![Screenshoot layout_flutter](docs/1-1.png)
 
 ## Langkah 2: Buka file lib/main.dart
 
-![Screenshoot layout_flutter](images/1-2.png)
+![Screenshoot layout_flutter](docs/1-2.png)
 
 ## Langkah 3: Identifikasi layout diagram
 
@@ -38,59 +38,68 @@ Dua item terakhir di baris judul adalah ikon bintang, set dengan warna merah, da
 
 ### Jawaban
 
-![Screenshoot layout_flutter](images/1-3.png)
-![Screenshoot layout_flutter](images/1-4.png)
+![Screenshoot layout_flutter](docs/1-3.png)
+![Screenshoot layout_flutter](docs/1-4.png)
 
 ## Output
 
-![Screenshoot layout_flutter](images/1-5.png)
+![Screenshoot layout_flutter](docs/1-5.png)
 
 # Praktikum 2: Implementasi button row
 
 ## Langkah 1: Buat method Column \_buildButtonColumn
 
-![Screenshoot layout_flutter](images/1-6.png)
+![Screenshoot layout_flutter](docs/1-6.png)
 
 ## Langkah 2: Buat widget buttonSection
 
-![Screenshoot layout_flutter](images/2-1.png)
+![Screenshoot layout_flutter](docs/2-1.png)
 
 ## Langkah 3: Tambah button section ke body
 
-![Screenshoot layout_flutter](images/2-2.png)
+![Screenshoot layout_flutter](docs/2-2.png)
 
 ## Output
 
-![Screenshoot layout_flutter](images/2-3.png)
+![Screenshoot layout_flutter](docs/2-3.png)
 
 # Praktikum 3: Implementasi text section
 
 ## Langkah 1: Buat widget textSection
 
-![Screenshoot layout_flutter](images/3-1.png)
+![Screenshoot layout_flutter](docs/3-1.png)
 
 ## Langkah 2: Tambahkan variabel text section ke body
 
-![Screenshoot layout_flutter](images/3-2.png)
+![Screenshoot layout_flutter](docs/3-2.png)
 
 ## Output
 
-![Screenshoot layout_flutter](images/3-3.png)
+![Screenshoot layout_flutter](docs/3-3.png)
 
 # Praktikum 4: Implementasi image section
 
 ## Langkah 1: Siapkan aset gambar
 
-![Screenshoot layout_flutter](images/4-1.png)
+![Screenshoot layout_flutter](docs/4-1.png)
 
 ## Langkah 2: Tambahkan gambar ke body
 
-![Screenshoot layout_flutter](images/4-2.png)
+![Screenshoot layout_flutter](docs/4-2.png)
 
 ## Langkah 3: Terakhir, ubah menjadi ListView
 
-![Screenshoot layout_flutter](images/4-3.png)
+![Screenshoot layout_flutter](docs/4-3.png)
 
 ## Output
 
-![Screenshoot layout_flutter](images/4-4.png)
+![Screenshoot layout_flutter](docs/4-4.png)
+
+# Tugas Praktikum
+
+Silakan implementasikan di project baru "basic_layout_flutter" dengan mengakses sumber ini:
+[https://docs.flutter.dev/codelabs/layout-basics](https://docs.flutter.dev/codelabs/layout-basics)
+
+## Jawab
+
+[basic_layout_flutter](https://github.com/DhayuIntan/2141720026-mobile-2023/tree/a0f0b9be1cb3af8685050f497a0b659fe2a50edb/week-07/basic_layout_flutter.git)
