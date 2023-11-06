@@ -2,23 +2,23 @@
 
 ### Langkah 1: Menambahkan Plugin
 
-![screenshoot](images/1.png)
+![screenshoot](docs/1.png)
 
 ### Langkah 2: Buat file red_text_widget.dart
 
-![screenshoot](images/2.png)
+![screenshoot](docs/2.png)
 
 ### Langkah 3: Tambah Widget AutoSizeText, dan buat variabel text dan parameter di constructor
 
-![screenshoot](images/3.png)
+![screenshoot](docs/3.png)
 
 ### Langkah 4: Tambahkan widget di main.dart
 
-![screenshoot](images/4.png)
+![screenshoot](docs/4.png)
 
 ### Hasil Praktikum
 
-![screenshoot](images/5.png)
+![screenshoot](docs/5.png)
 
 # Tugas Praktikum
 
