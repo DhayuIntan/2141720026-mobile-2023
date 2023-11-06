@@ -102,4 +102,4 @@ Silakan implementasikan di project baru "basic_layout_flutter" dengan mengakses 
 
 ## Jawab
 
-[basic_layout_flutter](https://github.com/DhayuIntan/2141720026-mobile-2023/tree/a0f0b9be1cb3af8685050f497a0b659fe2a50edb/week-07/basic_layout_flutter.git)
+[basic_layout_flutter](https://github.com/DhayuIntan/2141720026-mobile-2023/tree/88149a434542c0034b4388d2bad203f1dbe68149/week-07/src/basic_layout_flutter)
