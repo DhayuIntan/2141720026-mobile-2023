@@ -58,3 +58,15 @@
 #### <b>Jawab</b>
 
 ![images](docs/6.gif)
+
+#### 6. Jelaskan maksud perbedaan kode langkah 2 dengan langkah 5-6 tersebut!
+
+#### <b>Jawab</b>
+
+Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika ada kesalahan selama penundaan, catch akan menangani kesalahan tersebut dan menyelesaikan Completer dengan kesalahan. Pada blok onPressed, jika terjadi kesalahan selama eksekusi getNumber, blok catchError akan menangkap kesalahan tersebut dan mengatur result menjadi 'An error occurred'.
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 6".
+
+#### <b>Jawab</b>
+
+![images](docs/7.gif)
