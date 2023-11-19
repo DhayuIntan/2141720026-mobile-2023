@@ -42,3 +42,19 @@
 #### <b>Jawab</b>
 
 ![images](docs/5.gif)
+
+# Praktikum 3: Menggunakan Completer di Future
+
+#### 5. Jelaskan maksud kode langkah 2 tersebut!
+
+- late Completer completer: Deklarasi objek Completer yang akan digunakan untuk menyelesaikan atau menolak suatu Future pada waktu tertentu.
+- Future getNumber() : Fungsi getNumber menginisialisasi objek Completer<int> dan memanggil fungsi calculate, kemudian mengembalikan future dari Completer, yang akan diselesaikan nanti.
+- calculate() async : Fungsi calculate adalah fungsi asynchronous yang menunggu selama 5 detik menggunakan await Future.delayed(const Duration(seconds: 5)); dan kemudian menyelesaikan Completer dengan nilai 42 menggunakan completer.complete(42).
+
+#### <b>Jawab</b>
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 5".
+
+#### <b>Jawab</b>
+
+![images](docs/6.gif)
