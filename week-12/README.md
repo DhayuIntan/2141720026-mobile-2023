@@ -78,3 +78,9 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### <b>Jawab</b>
 
 ![images](docs/8.gif)
+
+#### 8. Jelaskan maksud perbedaan kode langkah 1 dan 4!
+
+#### <b>Jawab</b>
+
+#### Kode 1 lebih fleksibel dengan penambahan Future secara dinamis menggunakan FutureGroup, sedangkan Kode 2 menyediakan cara yang lebih langsung untuk menunggu hasil dari beberapa Future secara bersamaan menggunakan Future.wait.
