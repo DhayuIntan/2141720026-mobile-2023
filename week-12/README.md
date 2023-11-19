@@ -70,3 +70,11 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### <b>Jawab</b>
 
 ![images](docs/7.gif)
+
+# Praktikum 4: Memanggil Future secara paralel
+
+#### 7. Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 7".
+
+#### <b>Jawab</b>
+
+![images](docs/8.gif)
