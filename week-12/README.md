@@ -28,3 +28,17 @@
 #### <b>Jawab</b>
 
 ![images](docs/4.gif)
+
+# Praktikum 2: Menggunakan await/async untuk menghindari callbacks
+
+#### 4. Jelaskan maksud kode langkah 1 dan 2 tersebut!
+
+#### <b>Jawab</b>
+
+#### Langkah 1 merupakan tiga fungsi asynchronous (async) yang mengembalikan nilai berturut-turut 1, 2, dan 3 setelah menunda eksekusi selama 3 detik pada masing-masing fungsi. Langkah 2, fungsi count digunakan untuk menghitung total dari tiga nilai asynchronous dan memperbarui tampilan hasilnya menggunakan setState.
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 4".
+
+#### <b>Jawab</b>
+
+![images](docs/5.gif)
