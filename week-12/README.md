@@ -138,3 +138,15 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 ![images](docs/14.gif)
 
 #### Seperti yang Anda lihat, menggunakan FutureBuilder lebih efisien, clean, dan reactive dengan Future bersama UI.
+
+#### 14. Apakah ada perbedaan UI dengan langkah sebelumnya? Mengapa demikian?
+
+#### <b>Jawab</b>
+
+#### Tidak ada perbedaan UI karena handling error yang mengembalikan teks 'Something Terrible Happened!' hanya ditampilkan jika terjadi error. Namun jika berhasil mengambil lokasi handling error tidak dijalankan.
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 14".
+
+#### <b>Jawab</b>
+
+![images](docs/15.gif)
