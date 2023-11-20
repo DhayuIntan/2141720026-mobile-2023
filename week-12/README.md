@@ -95,6 +95,14 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 
 #### <b>Jawab</b>
 
-![images](docs/9.gif)
+![images](docs/10.gif)
 
 #### Pada langkah 1 kondisi if else diatur pada ElevatedButton, sedangkan pada langkah 4 kondisi tersebut sudah diatur dalam class \_FutureStatePage dan pada buttonnya hanya menreturn class \_FutureStatePage saja.
+
+# Praktikum 6: Menggunakan Future dengan StatefulWidget
+
+#### 11. Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
+
+#### <b>Jawab</b>
+
+![images](docs/11.png)
