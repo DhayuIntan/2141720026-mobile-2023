@@ -150,3 +150,29 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### <b>Jawab</b>
 
 ![images](docs/15.gif)
+
+# Praktikum 8: Navigation route dengan Future Function
+
+#### 15. Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda. Silakan ganti dengan warna tema favorit Anda.
+
+#### <b>Jawab</b>
+
+![images](docs/16.png)
+
+#### 16. Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
+
+#### <b>Jawab</b>
+
+#### Jika diklik setiap button maka background akan berganti warna sesuai yang telah disetting.
+
+#### Gantilah 3 warna pada langkah 5 dengan warna favorit Anda!
+
+![images](docs/17.png)
+
+#### <b>Jawab</b>
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 16".
+
+#### <b>Jawab</b>
+
+![images](docs/18.gif)
