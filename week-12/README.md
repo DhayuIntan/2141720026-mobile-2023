@@ -90,3 +90,11 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### 9. Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 9".
 
 ![images](docs/9.gif)
+
+#### 10. Panggil method handleError() tersebut di ElevatedButton, lalu run. Apa hasilnya? Jelaskan perbedaan kode langkah 1 dan 4!
+
+#### <b>Jawab</b>
+
+![images](docs/9.gif)
+
+#### Pada langkah 1 kondisi if else diatur pada ElevatedButton, sedangkan pada langkah 4 kondisi tersebut sudah diatur dalam class \_FutureStatePage dan pada buttonnya hanya menreturn class \_FutureStatePage saja.
