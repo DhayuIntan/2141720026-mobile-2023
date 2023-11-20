@@ -84,3 +84,9 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### <b>Jawab</b>
 
 #### Kode 1 lebih fleksibel dengan penambahan Future secara dinamis menggunakan FutureGroup, sedangkan Kode 2 menyediakan cara yang lebih langsung untuk menunggu hasil dari beberapa Future secara bersamaan menggunakan Future.wait.
+
+# Praktikum 5: Menangani Respon Error pada Async Code
+
+#### 9. Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 9".
+
+![images](docs/9.gif)
