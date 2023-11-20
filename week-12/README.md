@@ -106,3 +106,19 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### <b>Jawab</b>
 
 ![images](docs/11.png)
+
+#### 12. Jika Anda tidak melihat animasi loading tampil, kemungkinan itu berjalan sangat cepat. Tambahkan delay pada method getPosition() dengan kode await Future.delayed(const Duration(seconds: 3));
+
+#### <b>Jawab</b>
+
+![images](docs/12.png)
+
+#### Apakah Anda mendapatkan koordinat GPS ketika run di browser? Mengapa demikian?
+
+#### <b>Jawab</b>
+
+#### Ketika menjalankan proyek Flutter pada browser, digunakan API Geolocation HTML5 tanpa harus menambahkan izin secara eksplisit pada AndroidManifest atau file konfigurasi platform seluler lainnya. Koordinat tetap bisa didapatkan tetapi pengguna harus memberikan izin akses terlebih dahulu.
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 12".
+
+![images](docs/13.gif)
