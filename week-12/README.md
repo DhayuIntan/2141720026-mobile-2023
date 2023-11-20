@@ -122,3 +122,19 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 12".
 
 ![images](docs/13.gif)
+
+# Praktikum 7: Manajemen Future dengan FutureBuilder
+
+#### 13. Apakah ada perbedaan UI dengan praktikum sebelumnya? Mengapa demikian?
+
+#### <b>Jawab</b>
+
+#### Tidak terdapat perbedaan UI. Pada praktikum sebelumnya menggunakan initState untuk mendapatkan posisinya sedangkan praktikum 7 dilakukan manajemen future position dengan FutureBuilder bersamaan dengan update UI ketika ada update Future. Pada FutureBuilder terdapat status future sendiri, sehingga penggunaan setState dapat diabaikan.
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 13".
+
+#### <b>Jawab</b>
+
+![images](docs/14.gif)
+
+#### Seperti yang Anda lihat, menggunakan FutureBuilder lebih efisien, clean, dan reactive dengan Future bersama UI.
