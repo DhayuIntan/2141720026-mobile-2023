@@ -176,3 +176,21 @@ Pada fungsi langkah 6 tersebut terdapat blok try-catch di dalam calculate. Jika 
 #### <b>Jawab</b>
 
 ![images](docs/18.gif)
+
+#### 17. Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
+
+#### <b>Jawab</b>
+
+#### Saat tombol "Change Color" ditekan, metode \_showColorDialog dipanggil untuk menampilkan dialog AlertDialog dengan pilihan warna (Red, Green, Blue). Setelah pengguna memilih warna, nilai color diperbarui, dan setState dipanggil sehingga UI diperbarui sesuai dengan nilai color yang baru.
+
+#### Gantilah 3 warna pada langkah 3 dengan warna favorit Anda!
+
+#### <b>Jawab</b>
+
+![images](docs/20.png)
+
+#### Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W12: Soal 17".
+
+#### <b>Jawab</b>
+
+![images](docs/19.gif)
