@@ -26,3 +26,9 @@
    kode tersebut digunakan untuk membuat Stream yang secara periodik mengeluarkan warna-warna dari daftar warna yang telah ditentukan, dan warna-warna tersebut akan digunakan di dalam aplikasi Flutter atau lingkungan pemrograman lainnya untuk tujuan visual atau tampilan antarmuka pengguna.
 
    Lakukan commit hasil jawaban Soal 3 dengan pesan "W13: Jawaban Soal 3"
+
+4. Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lakukan commit hasil jawaban Soal 4 dengan pesan "W13: Jawaban Soal 4"
+
+   <b>Jawab</b>
+
+   ![img](docs/3.gif)
