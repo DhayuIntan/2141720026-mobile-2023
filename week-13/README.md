@@ -31,3 +31,21 @@
 
    <b>Jawab</b>
    ![img](docs/3.gif)
+
+5. Jelaskan perbedaan menggunakan listen dan await for (langkah 9) !
+
+   <b>Jawab</b>
+
+   listen:
+
+   - Penggunaan: Digunakan untuk memantau perubahan pada suatu Stream
+   - Cara Kerja: Listen dapat digunakan untuk mengaitkan suatu fungsi callback dengan Stream. Fungsi ini akan dipanggil setiap kali Stream menghasilkan nilai baru.
+   - Tujuan: Untuk merespons perubahan pada Stream tanpa harus menunggu atau menghentikan eksekusi.
+
+   await for:
+
+   - Penggunaan: Await for digunakan ketika perlu memantau dan menunggu nilai pada suatu Stream menggunakan struktur perulangan.
+   - Cara Kerja: Membuat struktur perulangan yang menunggu nilai dari Stream menggunakan kata kunci await. Ini biasanya digunakan di dalam fungsi yang diberi tanda async.
+   - Tujuan: Berguna dalam menunggu dan merespons setiap nilai yang dihasilkan oleh Stream secara berurutan.
+
+   Lakukan commit hasil jawaban Soal 5 dengan pesan "W13: Jawaban Soal 5"
